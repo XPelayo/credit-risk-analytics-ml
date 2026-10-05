@@ -1,10 +1,10 @@
 # Clasificador de Riesgo de Crédito Explicable
 
-Descripción
+## Descripción
 
 Este repositorio contiene el código y la documentación para una aplicación analítica basada en Python, diseñada para predecir la probabilidad de incumplimiento (default) en solicitudes de préstamos. A diferencia de las soluciones tradicionales de "caja negra", esta herramienta utiliza modelos de Machine Learning junto con técnicas de interpretabilidad (SHAP) para ofrecer decisiones financieras transparentes, justificando los motivos detrás de la aprobación o denegación de cada crédito.
 
-Objetivos
+## Objetivos
 
 Desarrollar un modelo predictivo robusto: Entrenar un algoritmo de clasificación (como XGBoost o Random Forest) capaz de identificar patrones de riesgo de alta fiabilidad.
 
@@ -12,7 +12,7 @@ Integrar explicabilidad algorítmica: Utilizar librerías como SHAP para asegura
 
 Desplegar una interfaz interactiva: Construir un prototipo funcional (utilizando herramientas como Streamlit) que permita a los usuarios introducir datos financieros y obtener un scoring en tiempo real.
 
-Plan de Trabajo Inicial
+## Plan de Trabajo Inicial
 
 El proyecto se desarrollará siguiendo las siguientes fases:
 
